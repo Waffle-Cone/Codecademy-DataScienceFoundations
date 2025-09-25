@@ -1,43 +1,45 @@
-# 🛠️ Data Engineer — Codecademy Career Path
+# 📊 Data Science Foundations — Codecademy Skill Path
 
 **Author:** Lucas de Boer  
 
 ---
 
 ## 📂 Overview
-This repository contains my work, projects, and practice from the **Codecademy Data Engineer Career Path**.  
-The path covers the core tools and skills needed to build robust data pipelines and manage data workflows.
+This repository contains my notes, practice, and projects from the **Codecademy Data Science Foundations Skill Path**.  
+The path covers the fundamentals of **Python, SQL, pandas, Matplotlib, statistics, data cleaning, and visualization**.  
 
 ---
 
-## 📘 About the Career Path
-A **Data Engineer** builds the pipelines to connect data input to analysis.  
-By the end of this path, I will have practiced using **Python, SQL, pandas, PySpark, Git, MongoDB**, and more to create resilient and scalable data pipelines.
+## 📘 About the Skill Path
+**Data Science Foundations** teaches how to clean, analyze, and visualize data — essential skills for anyone entering the field of Data Science.  
+
+By the end of this path, I will have built projects demonstrating my ability to:  
+- 🔹 Analyze data with Python and statistics  
+- 🔹 Query and manage databases using SQL  
+- 🔹 Create clear, insightful data visualizations  
+- 🔹 Build a Data Science portfolio  
 
 - **Skill level:** Beginner  
-- **Duration:** ~90 hours  
-- **Projects:** 61  
-- **Quizzes:** 59  
+- **Duration:** ~55 hours  
+- **Projects:** 34  
+- **Quizzes:** 35  
 - **Certificate:** Upon completion  
+
 
 ---
 
 ## 📑 Syllabus (units covered)
-1. Welcome to the Data Engineer Career Path  
-2. Python Fundamentals for Data Engineers  
-3. SQL Fundamentals for Data Engineers  
-4. Python Pandas for Data Engineers  
-5. Advanced SQL for Data Engineers  
-6. Data Wrangling, Cleaning, and Tidying  
-7. Getting Started Off-Platform for Data Engineers  
-8. Data Management Portfolio Project  
-9. Introduction to Big Data with PySpark  
-10. Intermediate Python for Data Engineers  
-11. Learn the Command Line  
-12. Advanced Python for Data Engineers  
-13. Data Pipeline Portfolio Project  
-14. Learn Git: Introduction to Version Control  
-15. Learn Git II: Git for Deployment  
-16. GitHub Portfolio Project  
-17. Learn MongoDB  
-
+1. Welcome to Data Science Foundations  
+2. Principles of Data Literacy  
+3. Learn SQL  
+4. Python Fundamentals for Data Science (Part I)  
+5. Python Fundamentals for Data Science (Part II)  
+6. **Portfolio Project:** U.S. Medical Insurance  
+7. Python Pandas for Data Science  
+8. Exploratory Data Analysis in Python  
+9. Statistics Fundamentals for Data Science  
+10. Data Visualization Fundamentals with Python  
+11. **Portfolio Project:** Data Visualization  
+12. Data Wrangling, Cleaning, and Tidying  
+13. Communicating Data Science Findings  
+14. **Portfolio Project:** Data Analysis (Endangered Animals)  
