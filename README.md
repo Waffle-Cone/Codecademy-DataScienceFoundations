@@ -17,7 +17,6 @@ By the end of this path, I will have built projects demonstrating my ability to:
 - 🔹 Analyze data with Python and statistics  
 - 🔹 Query and manage databases using SQL  
 - 🔹 Create clear, insightful data visualizations  
-- 🔹 Build a Data Science portfolio  
 
 - **Skill level:** Beginner  
 - **Duration:** ~55 hours  
